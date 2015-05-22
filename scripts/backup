@@ -1,8 +1,7 @@
 #/bin/bash
-# Backup Script for Data Structures Lab
+# Backup Script for bio-medical-signal-and-image-processing-lab
 
 # Backup Script takes the backup of the database used by the lab.
-# Since there is no database being used for Data Structures Lab, 
+# Since there is no database being used for bio-medical-signal-and-image-processing-lab 
 # the script does nothing. 
-
-echo "There is no database used for the lab."
+# "There is no database used for the lab."

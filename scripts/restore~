@@ -1,0 +1,7 @@
+#/bin/bash
+# restore Script for Biomedical Instrumentation Lab
+
+# restore Script takes the restore of the database used by the lab.
+# Since there is no database being used for Biomedical Instrumentation Lab. 
+# the script does nothing. 
+# "There is no database used for the lab."
