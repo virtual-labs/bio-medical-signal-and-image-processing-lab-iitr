@@ -1,0 +1,33 @@
+* Author: Nihanth
+* Date Created: 01 Feb 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM,Processor:i5
+  - Signal type:Sawtooth,triangular,square,sine,user defined and formulae based
+
+* Objective
+  - To perform the Experiment of the Digital Signal Processing Toolkit experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/bio-medical-signal-and-image-processing-lab-iitr/blob/master/test-cases/integration_test-cases/Digital Signal Processing Toolkit/Digital Signal Processing Toolkit_01_Usability_smk.org][Digital Signal Processing Toolkit_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Refer to step id 14
+  2. Select the signal type from the drop down list present at the signal type field
+  3. Set frequency,amplitude,phase,sampling frequency,simulation period and DC Bias using the scroll bar ao by manually entering the value at the corresponding fields
+  4. Select the type of noise from the drop down list opresent at the noise type field
+  5. Click on the Aliasing  radio button
+  6. Click on the close(X) botton prsent at the top left corner of the window
+
+* Expected result
+  1. Refer to step id 14
+  2. Based on the selected signal type,noise type and frequency values the amplitude vs time graph should be displayed on the screen
+  3. The Aliasing radio button should get selected
+
+* Review/comments
+
+

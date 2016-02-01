@@ -1,0 +1,34 @@
+* Author: Nihanth
+* Date Created: 01 Feb 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the feedback of the Bio-Medical Signal Processing Toolkit experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/bio-medical-signal-and-image-processing-lab-iitr/blob/master/test-cases/integration_test-cases/Bio-Medical Signal Processing Toolkit/Bio-Medical Signal Processing Toolkit_01_Usability_smk.org][Bio-Medical Signal Processing Toolkit_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Refer to the step id 25
+  2. Click on the feedback link
+  3. It should re-direct to the feedback form page
+  4. Enter the valid data in all the required fields and click on the submit button
+  5. Click on the back button
+
+* Expected result
+  1. Refer to the step id 25
+  2. Feedback page should be opened
+  3. Content should be present with no distortions and Junk characters
+  4. The entered data should be stored in the backend database
+  5. It should redirect to the lab main page
+
+* Review/comments
+
+
